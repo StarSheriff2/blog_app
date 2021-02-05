@@ -42,3 +42,4 @@ yarn-debug.log*
 .stylelintrc.json
 .gitignore
 blog_app.code-workspace
+.DS_Store
