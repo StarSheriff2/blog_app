@@ -40,4 +40,5 @@ yarn-debug.log*
 .yarn-integrity
 .rubocop.yml
 .stylelintrc.json
-package-lock.json
+.gitignore
+blog_app.code-workspace
