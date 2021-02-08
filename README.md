@@ -3,7 +3,7 @@
 # Blog App
 
 > In this project we build a simple blog application, using the MVC framework.
-
+# Screenshot
 ![screenshot](./app_screenshot.png)
 
 You can use the CRUD (Create, Read, Update, Delete) operations on each articles and comments section.
@@ -18,11 +18,6 @@ You can use the CRUD (Create, Read, Update, Delete) operations on each articles 
 
 
 ## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
