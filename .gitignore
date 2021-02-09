@@ -38,8 +38,8 @@
 /yarn-error.log
 yarn-debug.log*
 .yarn-integrity
-.rubocop.yml
 .stylelintrc.json
 .gitignore
 blog_app.code-workspace
 .DS_Store
+.rubocop.yml
