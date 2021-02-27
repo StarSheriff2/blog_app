@@ -57,7 +57,7 @@ https://www.theodinproject.com/courses/ruby-programming/lessons/installing-ruby-
 - GitHub: [@carloso0114](https://github.com/carloso0114)
 - LinkedIn: [Carlos Ospina](https://www.linkedin.com/in/carlosospina/)
 
-## 🤝 Contributing
+## Contributing
 
 Contributions, issues, and feature requests are welcome!
 
